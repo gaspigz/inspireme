@@ -3,6 +3,9 @@ It consumes two APIs:
 https://picsum.photos/400
 https://randomuser.me/api
 
+![image](https://github.com/gaspigz/inspireme/assets/83679184/f785ce8c-b019-4294-9cb7-84e5c861f26a)
+
+
 ## Getting Started
 
 First, run the development server:
