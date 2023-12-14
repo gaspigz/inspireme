@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.moved-up {
+  transform: translateY(-60px); /* Ajusta la distancia hacia arriba que prefieras */
+  transition: transform 0.5s ease; /* Agrega una transición para una apariencia más suave */
+}
